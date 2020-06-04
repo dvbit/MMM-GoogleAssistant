@@ -1,0 +1,10 @@
+{
+  "NO_RESPONSE" : "Scusa , non ho capito.",
+  "NO_AUDIO_RESPONSE" : " ",
+  "TOO_SHORT" : "Scusa , non ho capito.",
+  "CONVERSATION_ERROR" : "Errore di conversazione (controllare microfono, sa sa 1 2 3 prova)",
+
+/* developer mode utils (Bugsounet) */
+  "QUERY_REPLY" : "Google Assistant sarà disattivato",
+  "QUERY_HELP" : "Puoi controllare `Google Assistant` via testo con questo comando."
+}
